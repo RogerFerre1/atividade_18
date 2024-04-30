@@ -1,0 +1,62 @@
+
+.container{
+    display: flex;
+    width: 50%;
+    margin: auto;
+
+}
+
+main{
+    display: block;
+    
+}
+
+
+.content{
+
+}
+.content img{
+    width: 30%;
+}
+
+.content h2, h3, p{
+    padding: 10px;
+    
+    
+}
+
+.perfil{
+    font-size: 15px;
+    display: flex;
+}
+.perfil img{
+    width: 60px;
+    
+   
+}
+
+.perfil h6{
+    padding: 20px;
+}
+
+.guide{
+    display: flex;
+}
+.aside{
+    display: flex;
+    width: 100%;
+    margin-bottom: 20px;
+    flex-direction: column;
+
+}
+.aside img{
+    width: 100%;
+    
+}
+
+
+.as2{
+   justify-content: flex-end;
+}
+
+
